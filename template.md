@@ -186,3 +186,7 @@ pups_df =
 pups_df =
   janitor::clean_names(pups_df)
 ```
+
+## OK what about excel
+
+CSVs are great but sometimes you get an excel file.
