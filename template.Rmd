@@ -97,4 +97,10 @@ litters_df_base =
 clearly its not as nice.
 
 
+## What about data exporting?
 
+```{r}
+write_csv(fotr_df, "data/fotr_df.csv")
+```
+
+now its in the data folder within data_wrangling_1
